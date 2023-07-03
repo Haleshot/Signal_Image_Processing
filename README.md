@@ -3,7 +3,6 @@
 This repository contains various programs related to Signal and Image Processing. These programs cover a range of topics such as LPF, HPF, Downsampling, Upsampling, Thresholding, Negative of an Image, and Blurring. The programs are implemented using Python and commonly used libraries like OpenCV and Pandas.
 
 
-Apologies for the confusion. Here's the tabular format with the specified columns, where the Program title is displayed without the "GitHub Link" text:
 
 | Serial Number | Program Title                    | Description                                                    | Tools Used                 | Repository Link                                                                                    |
 |---------------|---------------------------------|----------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------------|
