@@ -15,3 +15,21 @@ This repository contains various programs related to Signal and Image Processing
 | 7             | Edge Detection                  | Implementation of edge detection algorithms                    | Python, NumPy, OpenCV      | [Edge_Detection](https://github.com/Haleshot/Signal_Image_Processing/tree/main/Edge_Detection)                 |
 | 8             | Erosion and Dilation            | Implementation of erosion and dilation operations              | Python, NumPy, OpenCV      | [Erosion_Dilation](https://github.com/Haleshot/Signal_Image_Processing/tree/main/Erosion_Dilation)             |
 | 9             | Morphological Operations         | Implementation of morphological operations                     | Python, NumPy, OpenCV      | [Morphological_Operations](https://github.com/Haleshot/Signal_Image_Processing/tree/main/Morphological_Operations) |
+
+
+
+## Usage
+
+Each program in this repository is designed to be run independently. To use a specific program, follow the instructions provided in its corresponding directory.
+
+## Contributing
+
+Contributions to this repository are welcome. If you would like to contribute or have suggestions for improvement, please create a pull request or submit an issue in the respective program's repository.
+
+## License
+
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please see the individual program directories for more information on licensing for each program.
+
+## Contact
+
+If you have any questions or inquiries, feel free to contact the repository owner or contributor through their GitHub profiles listed in the respective program repositories.
