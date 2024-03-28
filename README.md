@@ -3,7 +3,6 @@
 This repository contains various programs related to Signal and Image Processing. These programs cover a range of topics such as LPF, HPF, Downsampling, Upsampling, Thresholding, Negative of an Image, and Blurring. The programs are implemented using Python and commonly used libraries like OpenCV, Matplotlib and Pandas.
 
 
-
 | Serial Number | Program Title                    | Description                                                    | Tools Used                 | Repository Link                                                                                    |
 |---------------|---------------------------------|----------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------------|
 | 1             | Discrete Fourier Transform      | Implementation of the Discrete Fourier Transform (DFT)         | Python, NumPy, OpenCV      | [Discrete_Fourier_Transform](https://github.com/Haleshot/Signal_Image_Processing/tree/main/Discrete_Fourier_Transform) |
