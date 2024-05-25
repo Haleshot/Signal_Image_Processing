@@ -63,6 +63,3 @@ After applying the Sobel operator with the averaging filter and comparing the re
 - The averaging filter blurs the image and reduces the noise.
 - When the Sobel operator is applied after the averaging filter, the edges appear smoother and less pronounced compared to applying the Sobel operator directly on the original image.
 - The combined gradient image, |g_x+g_y|, obtained from the Sobel operator shows the overall intensity changes in the image.
-
-> [!NOTE]
->  The code implementation is not provided in this README file.
