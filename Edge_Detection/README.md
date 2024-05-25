@@ -64,4 +64,5 @@ After applying the Sobel operator with the averaging filter and comparing the re
 - When the Sobel operator is applied after the averaging filter, the edges appear smoother and less pronounced compared to applying the Sobel operator directly on the original image.
 - The combined gradient image, |g_x+g_y|, obtained from the Sobel operator shows the overall intensity changes in the image.
 
-Note: The code implementation is provided in the ipynb file.
+> [!NOTE]
+>  The code implementation is not provided in this README file.
